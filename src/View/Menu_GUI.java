@@ -107,7 +107,7 @@ public class Menu_GUI extends javax.swing.JFrame {
             }
         });
         jPanel3.add(salvar_btn);
-        salvar_btn.setBounds(360, 260, 80, 30);
+        salvar_btn.setBounds(350, 260, 90, 30);
 
         sair_btn.setBackground(new java.awt.Color(255, 0, 51));
         sair_btn.setText("X");
